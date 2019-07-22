@@ -40,6 +40,5 @@ function addZero(time) {
         return time;
 }
 
-
 showTime();
 setInterval(showTime,1000);
